@@ -1,0 +1,24 @@
+penyakit,color
+None,#99d8c9
+Diare Akut,#9ebcda
+ILI (Penyakit Serupa Influenza),#a8ddb5
+Malaria Konfirmasi,#fdbb84
+Pnemonia,#a6bddb
+Sindrom Jaundice Akut,#ece2f0
+Suspek Demam Tifoid,#c994c7
+Suspek Dengue,#fde0dd
+Suspek HFMD,#f7fcb9
+Suspek Meningitis/Encephalitis,#7fcdbb
+Suspek Tetanus,#2ca25f
+Diare Berdarah/ Disentri,#8856a7
+Gigitan Hewan Penular Rabies,#43a2ca
+Suspek Campak,#e34a33
+Suspek COVID-19,#2b8cbe
+Suspek Kolera,#1c9099
+Suspek Chikungunya,#c51b8a
+Acute Flacid Paralysis (AFP),#d95f0e
+Pertussis,#dd1c77
+Suspek Leptospirosis,#756bb1
+Kluster Penyakit yang tidak lazim,#bdbdbd
+Suspek Tetanus Neonatorum,#e5f5e0
+Suspek Difteri,#fde0dd
